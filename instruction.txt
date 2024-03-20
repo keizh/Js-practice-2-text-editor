@@ -1,0 +1,50 @@
+Tasks to perform:
+
+1. select all 
+
+id ->
+bold --> option-button ( id name is command , it works on text that you are current active on)
+superscript
+subscipt
+insertOrderedList
+insertUnorderedList
+undo
+redo
+unlink
+justifyLeft
+justifyRight
+justifyCenter
+justifyFull
+indent
+outdent
+
+createLink --> adv-option-button
+formatBlock
+fontName
+fontSize
+foreColor
+backColor
+
+text-input
+
+className ->
+align
+spacing
+format
+script 
+
+create Link
+
+2. initalizer on refresh
+
+dynamically fill fontName,fontSize
+defualt value of fontName , fontSize
+
+onload 
+
+align , spacing , script --> multiple
+format --> only 1 
+
+at any given time only 1 among them should be active , if only 1 then toggle
+
+3. baki ka attach event listner on all.
